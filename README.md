@@ -20,7 +20,15 @@ This Project will produce a machine learning model capable of classifying a clie
 
 ### Streamlit App
 The application created allows a user to both use The Predictor Tool and Exlplore an Overview of the Data Analysis.
-It is deployed to the cloud and can be found at the following link [Streamlit Fraud Filter App](https://fraud-app-final-project-6vewjensft3r7dquozkbps.streamlit.app/)
+It is deployed to the cloud and can be found at the following link [Streamlit Fraud Filter App](https://fraud-app-final-project-6vewjensft3r7dquozkbps.streamlit.app/).
+The Tool predicts an outcome based on the following categorical features from the Data:
+- Country
+- Major City/Province
+- Gender
+- Age Group
+- Fraud/Cybercrime Category
+- Solicitation Method
+
 *VS code Files:*
 - [Main Page](fraud_filter_app.py)
 - [Predict Page](predict_page.py)
