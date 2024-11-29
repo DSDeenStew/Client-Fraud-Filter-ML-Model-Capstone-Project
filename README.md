@@ -11,7 +11,7 @@ This Project will produce a machine learning model capable of classifying a clie
 - The project is built off the analysis the Canadian Anti-Fraud Centre Fraud Reporting System Dataset obtained from [Open Canada](https://open.canada.ca/data/en/dataset/6a09c998-cddb-4a22-beff-4dca67ab892f) 
 - [Original Dataset](fraud_dataset.zip)
 - Exploratory Data Analysis is performed in the [Fraud Data Notebook](fraud_data.ipynb)
-- The [Cleaned Data Frame](cleaned_fraud_data.csv) is saved into a CSV file in order to use for model building. [Fraud Model Building Notebook](Fraud_Model_Building.ipynb).
+- The [Cleaned Data Frame](cleaned_fraud_data.csv) is saved into a CSV file in order to use for model building.
 
 ### Model Building:
 - All steps are performed in the [Fraud Model Building Notebook](Fraud_Model_Building.ipynb).
