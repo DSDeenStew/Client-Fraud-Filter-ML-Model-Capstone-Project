@@ -5,7 +5,7 @@ by: Naudeen Stewart
 
 
 
-This Project will produce a machine learning model capable of classifying a client’s Complaint Report of Fraudulent activity as a Victim of Fraud or Not. This Fraud Predictor Tool aims to aide financial institutions and busineses by being able to filter the predicted outcome of such reports based on the likelihood of the victim to be a Victim of Fraud or Not, therefore seperating cases to be handled accordingly with better insight and by coordinated personel.
+This Project will produce a machine learning model capable of classifying a client’s Complaint Report of Fraudulent activity as a Victim of Fraud or Not. This Fraud Predictor Tool aims to aide financial institutions and busineses by being able to filter the predicted outcome of such reports based on the likelihood of the client to be a Victim of Fraud or Not, therefore seperating cases to be handled accordingly with better insight and by coordinated personel.
 
 ### Data:
 - The project is built off the analysis the Canadian Anti-Fraud Centre Fraud Reporting System Dataset obtained from [Open Canada](https://open.canada.ca/data/en/dataset/6a09c998-cddb-4a22-beff-4dca67ab892f) 
